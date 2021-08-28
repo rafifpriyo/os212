@@ -1,5 +1,0 @@
-# Log Format
-# Week-00 doing GitHub for os212
-
-L00 Starting GitHub
-L01 Doing Assignment
