@@ -12,3 +12,4 @@ ZCZC W00 100 L02 First meeting
 ZCZC W00  10 L01 Join Discord from Scele
 ZCZC W00  15 L06 GSGS Markdown related
 ZCZC W00  10 L04 re-fix GitHub Pages
+ZCZC W00 100 L02 Thursday meeting
