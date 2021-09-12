@@ -13,3 +13,10 @@ ZCZC W00  10 L01 Join Discord from Scele
 ZCZC W00  15 L06 GSGS Markdown related
 ZCZC W00  10 L04 re-fix GitHub Pages
 ZCZC W00 100 L02 Thursday meeting
+
+ZCZC W01  80 L02 Monday meeting
+ZCZC W01 100 L02 Thursday meeting
+ZCZC W01   5 L11 Install VM, etc
+ZCZC W01 120 L12 Trying login with ssh and PUTTY
+ZCZC W01  60 L14 Jump to assignment 4
+ZCZC W01  30 L15 Clone from github.com/rafifpriyo/os212
