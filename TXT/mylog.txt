@@ -20,3 +20,8 @@ ZCZC W01   5 L11 Install VM, etc
 ZCZC W01 120 L12 Trying login with ssh and PUTTY
 ZCZC W01  60 L14 Jump to assignment 4
 ZCZC W01  30 L15 Clone from github.com/rafifpriyo/os212
+ZCZC W01  90 L13 Learn basic CLI
+ZCZC W01  30 L16 Make links for index.md
+ZCZC W01   3 L17 Update mylog.txt
+ZCZC W01  45 L18 learn more about bash, regex, sed and awk
+ZCZC W01  15 L19 light reading OSC 2
