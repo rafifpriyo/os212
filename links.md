@@ -1,3 +1,7 @@
+---
+permalink: /LINK/
+---
+
 ### This is my page!!!
 
 ---
