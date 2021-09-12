@@ -25,3 +25,4 @@ ZCZC W01  30 L16 Make links for index.md
 ZCZC W01   3 L17 Update mylog.txt
 ZCZC W01  45 L18 learn more about bash, regex, sed and awk
 ZCZC W01  15 L19 light reading OSC 2
+ZCZC W01  10 L32 Searching good resource for link
