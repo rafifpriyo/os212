@@ -6,7 +6,7 @@ Thanks for visiting, hope it will be better.
 
 ---
 
-[Back](..blob/master/index.md)
+[Back](https://rafifpriyo.github.io/os212/)
 
 My Recommend List:
 * (Not yet)
