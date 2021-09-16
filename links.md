@@ -1,5 +1,5 @@
 ---
-permalink: /LINK/
+permalink: /LINKS/
 ---
 
 ### This is my page!!!
