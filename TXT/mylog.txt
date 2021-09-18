@@ -27,6 +27,8 @@ ZCZC W01  45 L18 learn more about bash, regex, sed and awk
 ZCZC W01  15 L19 light reading OSC 2
 ZCZC W01  10 L32 Searching good resource for link
 
+ZCZC W02  80 L02 Monday meeting
+ZCZC W02  80 L02 Thursday meeting
 ZCZC W02  35 L11 Read ch16
 ZCZC W02  35 L12 Demos C Language
 ZCZC W02   4 L14 Generate GnuPG
@@ -35,3 +37,6 @@ ZCZC W02   2 L16 Importing ospubkey.txt Key
 ZCZC W02   2 L17 Signin the OS public key
 ZCZC W02   2 L18 Export public key "mypubkey.txt"
 ZCZC W02   5 L09 Update mylog.txt
+ZCZC W02   5 L09 Copy simple myscript.txt
+ZCZC W02  10 L20 Peer review
+ZCZC W02 135 L13 Watch video part 1 + begining 2
