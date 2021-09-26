@@ -40,3 +40,15 @@ ZCZC W02   5 L09 Update mylog.txt
 ZCZC W02   5 L09 Copy simple myscript.txt
 ZCZC W02  10 L20 Peer review
 ZCZC W02 135 L13 Watch video part 1 + begining 2
+
+ZCZC W03  80 L02 Monday meeting
+ZCZC W03  30 L13 Trying Previous midterm problem
+ZCZC W03  80 L02 Sunday meeting
+ZCZC W03 150 L11 ch13 + ch 14 + ch 15
+ZCZC W03  30 L12 try file demos
+ZCZC W03   3 L14 Check my ".bash_aliases"
+ZCZC W03  30 L15 Add Extra Virtual Disk
+ZCZC W03   5 L16 update bookmark links
+ZCZC W03  15 L17 Review + update myrank.txt
+ZCZC W03   5 L18 Update mylog.txt
+ZCZC W03   3 L19 Submit W03 see you next week mylog.txt
