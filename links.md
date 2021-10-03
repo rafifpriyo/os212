@@ -18,3 +18,7 @@ My Recommend List:
 2. [How to Create Bash Aliases](https://linuxize.com/post/how-to-create-bash-aliases/)
 	* How and Why you create Bash Aliases
 	* Straightforward explanation and easy to understand
+
+3. [How to play with pointers in C](https://www.codingame.com/playgrounds/14589/how-to-play-with-pointers-in-c/address-of-a-variable)
+	* contains 8 sub-topic that will tell you, like, all about pointers in C
+	* there is an examples and good explanation about pointers in C

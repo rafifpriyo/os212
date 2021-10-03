@@ -43,7 +43,7 @@ ZCZC W02 135 L13 Watch video part 1 + begining 2
 
 ZCZC W03  80 L02 Monday meeting
 ZCZC W03  30 L13 Trying Previous midterm problem
-ZCZC W03  80 L02 Sunday meeting
+ZCZC W03  80 L02 Thursday meeting
 ZCZC W03 150 L11 ch13 + ch 14 + ch 15
 ZCZC W03  30 L12 try file demos
 ZCZC W03   3 L14 Check my ".bash_aliases"
@@ -52,3 +52,16 @@ ZCZC W03   5 L16 update bookmark links
 ZCZC W03  15 L17 Review + update myrank.txt
 ZCZC W03   5 L18 Update mylog.txt
 ZCZC W03   3 L19 Submit W03 see you next week mylog.txt
+
+ZCZC W04  90 L02 Monday meeting
+ZCZC W04 110 L02 Thursday meeting
+ZCZC W04  30 L11 ch9
+ZCZC W04  25 L12 try file demos
+ZCZC W04  60 L13 Tring Previous midterm problem
+ZCZC W04   5 L14 Installing Package list 2 (TLPI)
+ZCZC W04  10 L15 Fetch and Extract File "WEEK04.tar.bz2.asc", compile, etc
+ZCZC W04  25 L16 add bookmark link about pointers in C
+ZCZC W04  15 L17 Review + update myrank.txt
+ZCZC W04   7 L18 Update mylog.txt
+ZCZC W04   3 L19 Submit W04 with git, see you next week mylog.txt
+
