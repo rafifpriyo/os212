@@ -65,3 +65,14 @@ ZCZC W04  15 L17 Review + update myrank.txt
 ZCZC W04   7 L18 Update mylog.txt
 ZCZC W04   3 L19 Submit W04 with git, see you next week mylog.txt
 
+ZCZC W05 130 L02 Monday meeting
+ZCZC W05 110 L02 Thursday meeting
+ZCZC W05  25 L11 ch10 skip-skip reading
+ZCZC W05   3 L12 Just See Demos
+ZCZC W05   3 L13 See and little think Previous midterm problem
+ZCZC W05  70 L14 WEEK05 thing, mymemory2.c
+ZCZC W05   1 L15 No new Links
+ZCZC W05   1 L16 No Tips...
+ZCZC W05   3 L17 Review + update myrank.txt
+ZCZC W05   5 L18 Update mylog.txt
+ZCZC W05   3 L19 Submit W05 with git, see you next week mylog.txt
