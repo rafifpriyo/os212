@@ -22,3 +22,7 @@ My Recommend List:
 3. [How to play with pointers in C](https://www.codingame.com/playgrounds/14589/how-to-play-with-pointers-in-c/address-of-a-variable)
 	* contains 8 sub-topic that will tell you, like, all about pointers in C
 	* there is an examples and good explanation about pointers in C
+
+4. [Fork() in C Programming Languange](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+	* How Fork() works exactly like already explained before in the class
+	* from how Fork() works, to playing using wait(null)

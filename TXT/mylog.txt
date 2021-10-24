@@ -76,3 +76,15 @@ ZCZC W05   1 L16 No Tips...
 ZCZC W05   3 L17 Review + update myrank.txt
 ZCZC W05   5 L18 Update mylog.txt
 ZCZC W05   3 L19 Submit W05 with git, see you next week mylog.txt
+
+ZCZC W06  60 L02 Monday meeting, but asynchronous
+ZCZC W06 135 L02 Thursday meeting
+ZCZC W06  39 L11 Read ch 3 and 4
+ZCZC W06  20 L12 Trying fork() demos
+ZCZC W06   6 L13 MidTerm problem, small portion
+ZCZC W06  19 L14 This week assignment with linux
+ZCZC W06   8 L15 add bookmark link about how fork() works
+ZCZC W06   4 L16 Tips.md
+ZCZC W06   8 L17 Review + update myrank.txt
+ZCZC W06  10 L18 Update mylog.txt
+ZCZC W06   3 L19 Submit W06 with git, see you next week mylog.txt
