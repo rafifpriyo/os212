@@ -88,3 +88,16 @@ ZCZC W06   4 L16 Tips.md
 ZCZC W06   8 L17 Review + update myrank.txt
 ZCZC W06  10 L18 Update mylog.txt
 ZCZC W06   3 L19 Submit W06 with git, see you next week mylog.txt
+
+ZCZC W07  42 L02 Monday meeting
+ZCZC W07  73 L32 Week07 videos
+ZCZC W07  96 L02 Thursday meeting
+ZCZC W07  45 L11 Read ch 6, 7, and 8
+ZCZC W07  26 L12 Threading demos
+ZCZC W07   8 L13 MidTerm problem, just see, less think
+ZCZC W07  31 L14 This week assignment and REPORT2.txt
+ZCZC W07   5 L15 Just search about thread, no update for links.md
+ZCZC W07   1 L16 no new TIPS
+ZCZC W07   5 L17 Review + update myrank.txt
+ZCZC W07   6 L18 Update mylog.txt
+ZCZC W07   3 L19 Submit W07 with git
