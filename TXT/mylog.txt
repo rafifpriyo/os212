@@ -101,3 +101,19 @@ ZCZC W07   1 L16 no new TIPS
 ZCZC W07   5 L17 Review + update myrank.txt
 ZCZC W07   6 L18 Update mylog.txt
 ZCZC W07   3 L19 Submit W07 with git
+
+ZCZC W08  20 L02 Monday meeting
+ZCZC W08  36 L32 Week08 videos, concept
+ZCZC W08 100 L02 Thursday meeting
+ZCZC W08  42 L32 Week08 videos, problem example
+ZCZC W08  21 L11 Read ch 5
+ZCZC W08  24 L12 Seeing Demos
+ZCZC W08   6 L13 MidTerm Problem, same as class and video
+ZCZC W08  53 L14 LFS ch1 until 4
+ZCZC W08  87 L15 LFS ch5 part 1, still error
+ZCZC W08  63 L15 LFS ch5 part 2, no error
+ZCZC W08   1 L16 Skip link
+ZCZC W08   1 L17 Skip Tips
+ZCZC W08   5 L18 Review + update myrank.txt
+ZCZC W08   8 L19 Update mylog.txt
+ZCZC W08   3 L20 Submit W08 with git
